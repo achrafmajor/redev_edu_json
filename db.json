@@ -1,5 +1,6 @@
 [
-"login":{
+"login":[
+{
     "user": {
         "id": 2,
         "prenom": "Tempor",
@@ -22,5 +23,5 @@
         "role": 5
     },
     "token": "130|mw2l9fO1uUjOuKThoThuoypjfZsAJbXi8oAOncRD"
-}
+}]
 ]
