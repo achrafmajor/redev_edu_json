@@ -1,28 +1,7 @@
 
 {
   "login": {
-    "user": {
-        "id": 2,
-        "prenom": "Tempor",
-        "nom": "Voluptatem",
-        "email": "ahmed",
-        "address": "Est maiores placeat",
-        "phone": "+1 (794) 204-1576",
-        "birthday": "2021-01-14",
-        "gender": "male",
-        "cni": "Nobis sit exercitati",
-        "cne": "Et eius quis delenit",
-        "blood_group": "ahmed@gmail.com",
-        "uuid": null,
-        "mobile_token": null,
-        "web_token": null,
-        "anneescholaire_id": null,
-        "created_at": "2021-01-21T15:58:56.000000Z",
-        "updated_at": "2021-01-24T13:32:04.000000Z",
-        "name": "Tempor Voluptatem",
-        "role": 5
-    },
-    "token": "130|mw2l9fO1uUjOuKThoThuoypjfZsAJbXi8oAOncRD"
+
 },
   "profil": [
    
